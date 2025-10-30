@@ -1,1 +1,1 @@
-# parcialll2
+# ejemplo_tipo_parcial2
